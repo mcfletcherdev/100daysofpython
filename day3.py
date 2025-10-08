@@ -39,7 +39,7 @@ elif door == 'blue':
     quit()
 
 elif door == 'yellow':
-    console.print(":medal: [bold yellow]You found the treasure! You win![/bold yellow]", style="yellow")
+    console.print(":gold: [bold yellow]You found the treasure! You win![/bold yellow]", style="yellow")
     quit()
         
 else:
